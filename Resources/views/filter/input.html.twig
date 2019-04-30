@@ -23,7 +23,11 @@
 {% endset %}
 
 {% set filter_width %}
-    {% if column.width is not same as(null) %}style="width:{{ column.width }};"{% endif %}
+    {% if column.width is not same as(null) %}
+        style="width:{{ column.width }};"
+    {% else %}
+        style="width:100%;"
+    {% endif %}
 {% endset %}
 
 {% set filter_input_placeholder %}
