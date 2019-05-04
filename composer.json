@@ -1,4 +1,4 @@
-i{
+{
     "name": "Azraelir/DatatablesBundle",
     "type": "symfony-bundle",
     "description": "Symfony Datatable Bundle For Doctrine2 Entities",
