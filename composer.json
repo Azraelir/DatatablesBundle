@@ -7,7 +7,7 @@ i{
     "license": "MIT",
     "authors": [
         {
-            "name": "stwe"
+            "name": "stwe, Azraelir"
         },
         {
             "name": "SgDatatablesBundle contributors",
@@ -15,7 +15,7 @@ i{
         }
     ],
     "support": {
-        "issues": "https://github.com/stwe/DatatablesBundle/issues"
+        "issues": "https://github.com/Azraelir/DatatablesBundle/issues"
     },
     "require": {
         "php": ">=7.1",
@@ -26,6 +26,6 @@ i{
         "friendsofsymfony/jsrouting-bundle": "^1.6|^2.0"
     },
     "autoload": {
-        "psr-4": { "Sg\\DatatablesBundle\\": "" }
+        "psr-4": { "Azraelir\\DatatablesBundle\\": "" }
     }
 }
