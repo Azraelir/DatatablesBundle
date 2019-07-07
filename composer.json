@@ -2,8 +2,8 @@
     "name": "azraelir/datatablesbundle",
     "type": "symfony-bundle",
     "description": "Symfony Datatable Bundle For Doctrine2 Entities",
-    "keywords": ["symfony3", "datatable", "datatables", "data-table", "grid", "table", "datagrid", "pagination"],
-    "homepage": "https://github.com/stwe/DatatablesBundle",
+    "keywords": ["symfony3", "symfony4", "datatable", "datatables", "data-table", "grid", "table", "datagrid", "pagination"],
+    "homepage": "https://github.com/Azraelir/DatatablesBundle/",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,7 @@
         },
         {
             "name": "SgDatatablesBundle contributors",
-            "homepage": "https://github.com/stwe/DatatablesBundle/graphs/contributors"
+            "homepage": "https://github.com/Azraelir/DatatablesBundle/graphs/contributors"
         }
     ],
     "support": {
